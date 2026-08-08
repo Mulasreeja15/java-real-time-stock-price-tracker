@@ -59,6 +59,7 @@ Resubmit  Documentation
           Repayment
              ↓
          Loan Closed
+```
 The Java application retrieves the latest price of DIA from the Twelve Data API.
 
 The program:
@@ -83,7 +84,7 @@ Store Result in Queue
 Wait 15 Seconds
       ↓
 Repeat
-'''markdown
+
 Technologies Used
 Java 17
 Google Colab
