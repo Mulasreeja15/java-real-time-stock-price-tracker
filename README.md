@@ -182,10 +182,10 @@ The Twelve Data API key is not included in this repository.
 
 Users should create their own Twelve Data API key and store it as an environment variable before running the application.
 
-![Loan Management UML State Diagram](UML-State-Diagram.png)
+
 <img width="1536" height="1024" alt="state diagram" src="https://github.com/user-attachments/assets/49004e33-5f2b-4107-9151-3c856ea50be2" />
 
 And your graph under the visualization section using:
 
-![DIA Price Over Time](dia-price-chart.png)
+
 <img width="988" height="490" alt="image" src="https://github.com/user-attachments/assets/67fa25e8-4671-4adf-96d8-2bda237ea9f3" />
